@@ -97,7 +97,7 @@ class PersegiPage extends StatelessWidget {
                     ),
                     ElevatedButton(
                         onPressed: () {
-                          _persegiController.hitungLuas();
+                          _persegiController.hitungluas();
                         },
                         style: ElevatedButton.styleFrom(
                             backgroundColor: Colors.yellow,

@@ -4,7 +4,7 @@ class PersegiController extends GetxController{
   int sisi = 0;
   final hasil = "".obs;
 
-  void hitungLuas(){
+  void hitungluas(){
     int hitung = sisi * sisi;
     hasil.value = "Hasil Perhitungan Luas Persegi dari $sisi x $sisi adalah $hitung";
   }

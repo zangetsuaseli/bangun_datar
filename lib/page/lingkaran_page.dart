@@ -1,6 +1,7 @@
+import 'package:bangun_datar_kelas_c/Controller/lingkaran_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../controller/lingkaran_controller.dart';
+
 
 class LingkaranPage extends StatelessWidget {
   LingkaranPage({Key? key}) : super(key: key);
